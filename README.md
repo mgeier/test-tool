@@ -183,7 +183,10 @@ Fog, C. L. and Pedersen, T. H. (1999).
 Tools for product optimisation.
 In Human Centered Processes, Brest, France.
 
-see https://web.archive.org/web/20110828134303/http://www.tonmeister.ca/main/textbook/node350.html
+see  
+https://web.archive.org/web/20110828134303/  
+http://www.tonmeister.ca/main/textbook/node350.html  
+http://nwavguy.blogspot.de/2011/05/subjective-vs-objective-debate.html
 
 ### Randomization
 
@@ -352,6 +355,9 @@ there ...
 ** http://www.hoertechnik-audiologie.de/psylab/
 
 > "psylab" is a set of scripts, written in Matlab, which are designed to develop and automatically control a large variety of psychoacoustical detection- and discrimination-experiments in a fast and uniform way.
+
+* Lacinato
+** http://www.lacinato.com/cm/software/othersoft/abx
 
 <!--
 vim:textwidth=80
