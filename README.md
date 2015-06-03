@@ -281,7 +281,13 @@ Test homogenity of variance: Bartlett-Test, Levene-Test
 GUI stuff
 ---------
 
+http://python-gtk-3-tutorial.readthedocs.org/
+
 custom GTK widgets
+
+http://stackoverflow.com/a/20595547/500098
+
+http://zetcode.com/gui/pygtk/customwidget/
 
 http://library.gnome.org/devel/gladeui/unstable/pythonsupport.html
 
@@ -297,6 +303,10 @@ matplotlib: http://matplotlib.sourceforge.net/
 Tutorials:
 http://www.serpia.org/blog/2007/nov/03/matplotlib-and-pygtk-app/
 http://www.freesbi.ch/en/python-gtk-plot
+
+Scale example
+
+https://developer.gnome.org/gnome-devel-demos/stable/scale.py.html.en
 
 other test software
 -------------------
