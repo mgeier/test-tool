@@ -369,6 +369,14 @@ there ...
 * Lacinato
 ** http://www.lacinato.com/cm/software/othersoft/abx
 
+* ExpSuite
+** https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=353&Itemid=521&lang=en
+** http://sourceforge.net/projects/expsuite/
+
+* PyExperimentSuite
+** http://www.rueckstiess.net/projects/expsuitehttp://www.rueckstiess.net/projects/expsuite
+** https://github.com/rueckstiess/expsuite
+
 <!--
 vim:textwidth=80
 -->
