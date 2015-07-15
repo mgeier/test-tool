@@ -315,67 +315,67 @@ Probably it's not even necessary to create a new framework, there are many out
 there ...
 
 * Psychtoolbox-3
-** http://psychtoolbox.org/HomePage
+  * http://psychtoolbox.org/HomePage
 
 > Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU/Octave functions for vision research. It makes it easy to synthesize and show accurately controlled visual and auditory stimuli and interact with the observer.
 
 * "WhisPER" Matlab toolbox
-** http://www.ak.tu-berlin.de/menue/digitale_ressourcen/research_tools/whisper_listening_test_toolbox_for_matlab/
-** closed source (Matlab p-files)
+  * http://www.ak.tu-berlin.de/menue/digitale_ressourcen/research_tools/whisper_listening_test_toolbox_for_matlab/
+  * closed source (Matlab p-files)
 
 > WhisPER is a software package for performing experiments in the field of perceptual audio evaluation and psychoacoustic measurement, controlling the interaction with both the subject and the playback environment.
 
 * PsychoPy
-** http://www.psychopy.org/
+  * http://www.psychopy.org/
 
 > PsychoPy is an open-source application to allow the presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. It’s a free, powerful alternative to Presentation™ or e-Prime™, written in Python (a free alternative to Matlab™ ).
 
 * FLXLab
-** http://flxlab.sourceforge.net/
+  * http://flxlab.sourceforge.net/
 
 > FLXLab is a program for conducting computer-based experiments in psychology and related fields. It can present stimuli in the form of graphics, text, or sound, and can record responses to those stimuli, either manual (i.e., pressing a key) or verbal.
 > FLXLab is currently available for the Windows, OS X, and Linux operating systems.
 
 * MEDS (Music Experiment Development System)
-** http://www.schoolofmusic.ucla.edu/pages/Kendall/meds.htm
+  * http://www.schoolofmusic.ucla.edu/pages/Kendall/meds.htm
 
 > The Music Experiment Development System (MEDS) is a Windows based environment for developing and running multimedia perception experiments.
 
 * MLP: a MATLAB toolbox for rapid and reliable auditory threshold
-** http://www.psy.unipd.it/~grassi/mlp.html
+  * http://www.psy.unipd.it/~grassi/mlp.html
 
 * APEX 3
-** https://gilbert.med.kuleuven.be/web/index.php/Public:Software/APEX
+  * https://gilbert.med.kuleuven.be/web/index.php/Public:Software/APEX
 
 > Apex 3 is a software platform for auditory behavioural and psychophysical experiments. It provides a generic means of setting up experiments without any programming. The supported output devices include sound cards and the Nucleus cochlear implant.
 
 * Experiment Creator
-** http://www.psy.mq.edu.au/me2/index.php/site/creator/
+  * http://www.psy.mq.edu.au/me2/index.php/site/creator/
 
 * "Interactive Illustrations" in a Java-enabled webbrowser
-** http://psych.hanover.edu/JavaTest/Media/Chapter02.html
+  * http://psych.hanover.edu/JavaTest/Media/Chapter02.html
 
 * PyEPL
-** http://pyepl.sourceforge.net/
-** Debian package available
+  * http://pyepl.sourceforge.net/
+  * Debian package available
 
 > PyEPL (the Python Experiment-Programming Library) is a library for coding psychology experiments in Python. It supports presentation of both visual and auditory stimuli, and supports both manual (keyboard/joystick) and sound (microphone) input as responses.
 
 * Psylab
-** http://www.hoertechnik-audiologie.de/psylab/
+  * http://www.hoertechnik-audiologie.de/psylab/
 
 > "psylab" is a set of scripts, written in Matlab, which are designed to develop and automatically control a large variety of psychoacoustical detection- and discrimination-experiments in a fast and uniform way.
 
 * Lacinato
-** http://www.lacinato.com/cm/software/othersoft/abx
+  * http://www.lacinato.com/cm/software/othersoft/abx
 
 * ExpSuite
-** https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=353&Itemid=521&lang=en
-** http://sourceforge.net/projects/expsuite/
+  * https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=353&Itemid=521&lang=en
+  * http://sourceforge.net/projects/expsuite/
 
 * PyExperimentSuite
-** http://www.rueckstiess.net/projects/expsuitehttp://www.rueckstiess.net/projects/expsuite
-** https://github.com/rueckstiess/expsuite
+  * http://www.rueckstiess.net/projects/expsuitehttp://www.rueckstiess.net/projects/expsuite
+  * https://github.com/rueckstiess/expsuite
 
 <!--
 vim:textwidth=80
