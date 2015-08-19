@@ -188,6 +188,11 @@ https://web.archive.org/web/20110828134303/
 http://www.tonmeister.ca/main/textbook/node350.html  
 http://nwavguy.blogspot.de/2011/05/subjective-vs-objective-debate.html
 
+Distinction between and *epistemic* and an *ontological* sense of
+subjective/objective in: John R. Searle, The Construction of Social Reality,
+Simon and Schuster 1995 (see page 8).
+https://books.google.de/books?id=zrLQwJCcoOsC
+
 ### Randomization
 
 to avoid *order effects* ...
