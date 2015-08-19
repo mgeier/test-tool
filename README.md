@@ -377,6 +377,11 @@ there ...
   * http://www.rueckstiess.net/projects/expsuitehttp://www.rueckstiess.net/projects/expsuite
   * https://github.com/rueckstiess/expsuite
 
+* GuineaPig (2)
+  * Hynninen, Jussi, and Nick Zacharov. "GuineaPig - A Generic Subjective Test System for Multichannel Audio." Audio Engineering Society, 1999. http://www.aes.org/e-lib/browse.cfm?elib=8309.
+  * http://legacy.spa.aalto.fi/projects/GuineaPig2/
+  * http://research.spa.aalto.fi/publications/theses/hynninen_mst.pdf
+
 <!--
 vim:textwidth=80
 -->
