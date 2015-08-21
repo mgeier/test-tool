@@ -379,7 +379,7 @@ there ...
   * http://sourceforge.net/projects/expsuite/
 
 * PyExperimentSuite
-  * http://www.rueckstiess.net/projects/expsuitehttp://www.rueckstiess.net/projects/expsuite
+  * http://www.rueckstiess.net/projects/expsuite/
   * https://github.com/rueckstiess/expsuite
 
 * GuineaPig (2)
