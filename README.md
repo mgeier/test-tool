@@ -387,6 +387,10 @@ there ...
   * http://legacy.spa.aalto.fi/projects/GuineaPig2/
   * http://research.spa.aalto.fi/publications/theses/hynninen_mst.pdf
 
+* scale: Setup, Conduction and Analysis of Listening Experiments
+  * http://www.audiogroup.web.fh-koeln.de/scale.html
+  * for Matlab, closed source, precompiled for Windows
+
 <!--
 vim:textwidth=80
 -->
