@@ -391,6 +391,24 @@ there ...
   * http://www.audiogroup.web.fh-koeln.de/scale.html
   * for Matlab, closed source, precompiled for Windows
 
+* Web Audio Evaluation Tool
+  * https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool/
+  * Nicholas Jillings, Brecht De Man, David Moffat and Joshua D. Reiss, "Web
+    Audio Evaluation Tool: A Browser-Based Listening Test Environment," 12th
+    Sound and Music Computing Conference, July 2015.
+    [PDF](http://www.brechtdeman.com/publications/smc10.pdf)
+
+> A tool based on the HTML5 web audio API to perform audio evaluation tests on remote machines over the web.
+
+* APE Perceptual Evaluation
+  * https://code.soundsoftware.ac.uk/projects/ape
+  * B. De Man and Joshua D. Reiss,
+    APE: Audio Perceptual Evaluation toolbox for MATLAB,
+    136th Convention of the Audio Engineering Society, 2014.
+    [PDF](http://brechtdeman.com/publications/aes136.pdf)
+
+> Open perceptual evaluation toolbox for MATLAB.
+
 <!--
 vim:textwidth=80
 -->
