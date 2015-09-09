@@ -317,7 +317,7 @@ other test software
 -------------------
 
 Probably it's not even necessary to create a new framework, there are many out
-there ...
+there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_experiment_software)) ...
 
 * Psychtoolbox-3
   * http://psychtoolbox.org/HomePage
@@ -408,6 +408,32 @@ there ...
     [PDF](http://brechtdeman.com/publications/aes136.pdf)
 
 > Open perceptual evaluation toolbox for MATLAB.
+
+* OpenSesame
+  * http://osdoc.cogsci.nl/
+  * GPL
+
+> OpenSesame is a graphical, open-source experiment builder for the social sciences. It sports a modern and intuitive user interface that allows you to build complex experiments with a minimum of effort. With OpenSesame you can create a wide range of experiments. The plug-in framework and Python scripting allow you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices, into your experiment.
+
+* Expyriment
+  * http://www.expyriment.org/
+
+> Expyriment is an open-source and platform independent light-weight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments. The major goal is to provide a well-structured Python library for a script-based experiment development with a high priority on the readability of the resulting programme code.
+
+* RateIt: An Open-Source Tool For Performing MUSHRA Tests
+  * http://rateit.sourceforge.net/
+
+> RateIt is a GUI tool for performing subjective testing of audio samples based on the MUltiple Stimuli with Hidden Reference and Anchor (MUSHRA) methodology as specified in ITU-R recommendation BS.1534-1. RateIt is dual-licensed under the General Public License (GPL) and the Mozilla Public License (MPL) version 1.1.
+>
+> RateIt is written in C using libglade, which means that the user interface is very easy to customise. It currently uses sox for playback but support for libsndfile is planned (patches welcome).
+
+* PEBL: The Psychology Experiment Building Language
+  * http://pebl.sourceforge.net/
+  * GPL
+
+> * Free psychology software for creating experiments,
+> * Allows you to design your own experiments or use ready-made ones
+> * Lets you exchange experiments freely without license or charge
 
 <!--
 vim:textwidth=80
