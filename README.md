@@ -8,6 +8,7 @@ A tool for physiological tests with its main focus on psychoacoustics.
 Probably written in Python.
 
 Probably having a GUI created with GTK+ and GObject Introspection.
+
 Probably using Glade.
 
 possible example tests
@@ -15,15 +16,19 @@ possible example tests
 
 * Spatial Release from Masking for Speech
 
-  http://www-users.york.ac.uk/~aqs1/Test4.html
+  * http://www-users.york.ac.uk/~aqs1/Test4.html
 
-  (probably a version for adults instead of kids)
+    * (probably a version for adults instead of kids)
 
 * McGurk Effect
 
-  http://en.wikipedia.org/wiki/McGurk_effect
+  * http://en.wikipedia.org/wiki/McGurk_effect
 
-  http://www.faculty.ucr.edu/~rosenblu/VSMcGurk.html
+  * http://www.faculty.ucr.edu/~rosenblu/VSMcGurk.html
+
+* non-audio example from "Computational Methods for Psychology and Neuroscience"
+
+  * http://memory.osu.edu/classes/python/assignments/as01_exp.html
 
 possible test methods
 ---------------------
