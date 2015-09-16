@@ -337,6 +337,8 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
 
 * PsychoPy
   * http://www.psychopy.org/
+  * buttons, sliders, etc.: qLib
+    * http://psych.colorado.edu/wiki/doku.php?id=labs:clipr:qlib
 
 > PsychoPy is an open-source application to allow the presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. It’s a free, powerful alternative to Presentation™ or e-Prime™, written in Python (a free alternative to Matlab™ ).
 
