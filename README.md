@@ -442,6 +442,14 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
 > * Allows you to design your own experiments or use ready-made ones
 > * Lets you exchange experiments freely without license or charge
 
+* testable (commercial)
+  * http://www.testable.org/
+
+* State Machine Interface Library for Experiments
+  * https://github.com/compmem/smile/
+  * "kivy" branch: https://github.com/compmem/smile/tree/kivy
+  * probably the predecessor of https://github.com/compmem/psyqt/?
+
 <!--
 vim:textwidth=80
 -->
