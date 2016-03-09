@@ -450,6 +450,13 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
   * "kivy" branch: https://github.com/compmem/smile/tree/kivy
   * probably the predecessor of https://github.com/compmem/psyqt/?
 
+* BeaqleJS (browser based evaluation of audio quality and comparative listening environment)
+  * http://hsu-ant.github.io/beaqlejs/
+  * https://github.com/HSU-ANT/beaqlejs
+  * GPL
+
+> provides a framework to create browser based listening tests and is purely based on open web standards like HTML5 and Javascript.
+
 <!--
 vim:textwidth=80
 -->
