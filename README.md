@@ -461,6 +461,11 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
 
 * https://github.com/maxgiller/listening-test
 
+* Vision Egg
+  * https://visionegg.readthedocs.io/
+
+> The Vision Egg is a powerful, flexible, and free way to produce stimuli for vision research experiments.
+
 <!--
 vim:textwidth=80
 -->
