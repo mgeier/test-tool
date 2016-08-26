@@ -11,6 +11,8 @@ Probably having a GUI created with GTK+ and GObject Introspection.
 
 Probably using Glade.
 
+... or using [Kivy](https://kivy.org/)?
+
 possible example tests
 ----------------------
 
