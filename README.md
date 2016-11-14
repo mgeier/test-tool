@@ -466,6 +466,13 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
 
 > The Vision Egg is a powerful, flexible, and free way to produce stimuli for vision research experiments.
 
+* HULTI-GEN
+  * https://www.hud.ac.uk/research/researchcentres/mtprg/projects/apl/resources/hulti-gen/
+  * http://eprints.hud.ac.uk/24809/
+
+> ... HULTI-GEN (Huddersfield Universal Listening Test Interface Generator), a
+Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, which takes user-defined parameters (e.g. the number of trials, stimuli and scale settings) and automatically constructs an interface for comparing auditory stimuli, whilst also randomising the stimuli and trial order.
+
 <!--
 vim:textwidth=80
 -->
