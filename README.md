@@ -473,6 +473,13 @@ there (see [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_behavioral_ex
 > ... HULTI-GEN (Huddersfield Universal Listening Test Interface Generator), a
 Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, which takes user-defined parameters (e.g. the number of trials, stimuli and scale settings) and automatically constructs an interface for comparing auditory stimuli, whilst also randomising the stimuli and trial order.
 
+* Web Audio Evaluation Tool (WAET)
+  * https://github.com/BrechtDeMan/WebAudioEvaluationTool
+  * Web Audio Evaluation Tool: A framework for subjective assessment of audio,
+    https://smartech.gatech.edu/handle/1853/54595
+
+> A tool based on the HTML5 Web Audio API to perform perceptual audio evaluation tests locally or on remote machines over the web.
+
 <!--
 vim:textwidth=80
 -->
