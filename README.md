@@ -115,13 +115,11 @@ Ensuring the attention of the subject:
 
 http://www.tonmeister.ca/main/textbook/node362.html
 
-### BS.1116-1
+### BS.1116
 
-ITU-R, "ITU-R Recommendation BS.1116-1: Methods for the subjective assessment of
-small impairments in audio systems including multichannel sound systems,"
-Okt-1997.
+ITU-R Recommendation BS.1116: Methods for the subjective assessment of small impairments in audio systems
 
-http://www.itu.int/rec/R-REC-BS.1116-1-199710-I
+https://www.itu.int/rec/R-REC-BS.1116/en
 
 Similar to A/B/X
 
