@@ -478,6 +478,11 @@ Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, whic
 
 > A tool based on the HTML5 Web Audio API to perform perceptual audio evaluation tests locally or on remote machines over the web.
 
+* expyfun
+  * https://github.com/LABSN/expyfun
+
+> This package is designed for audio-visual experiments with precise timing, and includes functionality for Eyelink control. This package is designed with the purpose that it be used by LABS^N at the University of Washington. It is not designed for public use.
+
 <!--
 vim:textwidth=80
 -->
