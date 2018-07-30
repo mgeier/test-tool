@@ -489,6 +489,12 @@ Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, whic
 
 > a MUSHRA compliant web audio API based experiment software
 
+* earyx
+  * https://github.com/TGM-Oldenburg/earyx
+  * http://earyx.readthedocs.io/
+
+> earyx is a framework for developing and running psychoacoustic experiments. It is inspired by Psylab a Matlab implementation written by Martin Hansen.
+
 <!--
 vim:textwidth=80
 -->
