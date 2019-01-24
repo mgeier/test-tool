@@ -501,6 +501,12 @@ Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, whic
 
 > Run listening tests in the browser locally or via GitHub pages
 
+* jsPsych
+  * https://www.jspsych.org/
+  * https://github.com/jspsych/jsPsych/
+
+> A JavaScript library for creating and running behavioral experiments in a web browser
+
 <!--
 vim:textwidth=80
 -->
