@@ -39,6 +39,8 @@ possible test methods
 
 ...
 
+https://github.com/lucasmaystre/choix
+
 ### A/B/X
 
 http://www.tonmeister.ca/main/textbook/node359.html
