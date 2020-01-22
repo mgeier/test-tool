@@ -296,6 +296,13 @@ not suggested, but very common: Kolmogorov-Smirnov-Test, Lilliefors, $\chi^2$-Te
 
 Test homogenity of variance: Bartlett-Test, Levene-Test
 
+Literature about Test Tools
+---------------------------
+
+The timing mega-study: comparing a range of experiment generators, both lab-based and online  
+https://psyarxiv.com/d6nu5/  
+https://psychopy.org/timing/2020/
+
 GUI stuff
 ---------
 
