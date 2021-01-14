@@ -303,6 +303,8 @@ The timing mega-study: comparing a range of experiment generators, both lab-base
 https://psyarxiv.com/d6nu5/  
 https://psychopy.org/timing/2020/
 
+Remote Testing Wiki: https://www.spatialhearing.org/remotetesting/
+
 GUI stuff
 ---------
 
