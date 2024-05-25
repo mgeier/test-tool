@@ -524,6 +524,11 @@ Cycling ‘74 Max-based tool. HULTI-GEN is a user-customisable environment, whic
 
 > A JavaScript library for creating and running behavioral experiments in a web browser
 
+* pypercept
+  * https://gitlab.gwdg.de/ha_soft/pypercept
+
+> pypercept is a Python framework for developing and running psychoacoustical experiments.
+
 <!--
 vim:textwidth=80
 -->
